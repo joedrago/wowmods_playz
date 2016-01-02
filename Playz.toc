@@ -1,0 +1,7 @@
+## Interface: 50100
+## Title: Playz
+## Notes: Whatever
+## Author: Joe Drago
+## SavedVariables: PlayzData
+Playz.lua
+Playz.xml
